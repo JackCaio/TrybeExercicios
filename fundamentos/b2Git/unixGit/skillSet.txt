@@ -1,0 +1,5 @@
+O que vou aprender nesse módulo
+
+- Unix
+- Bash
+- Git
