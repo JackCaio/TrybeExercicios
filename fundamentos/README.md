@@ -9,3 +9,4 @@ Este é o primeiro módulo do curso, voltado para introduzir os básicos de dese
 - [ ] HTML: Forms, Flexbox & Responsivo
 - [ ] Introdução à JavaScript ES6 & Testes Unitários
 - [ ] Higher Order Functions do JavaScript ES6
+

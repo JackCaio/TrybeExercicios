@@ -9,35 +9,7 @@ Para acesso ao repositório de Projetos, [clique aqui.]()
 >(Link não disponível, pois o repositório ainda não foi criado)
 
 ## Links de Acesso:
-- :hourglass_flowing_sand: Fundamentos
-- :hourglass_flowing_sand: Desenvolvimento Front-End:
-	- [ ] JavaScript e Testes Assíncronos
-	- [ ] Introdução à React
-	- [ ] Componentes com Estado, Eventos & Formulários com React
-	- [ ] Ciclo de Vida de Componentes & React Router
-	- [ ] Metodologias Ágeis
-	- [ ] Testes Automatizados com React Testing Library
-	- [ ] Gerenciamento de estado com Redux
-	- [ ] Context API & React Hooks
-
-- :hourglass_flowing_sand: Desenvolvimento Back-End:
-	- [ ] Docker: Utilizando Containers
-	- [ ] Introdução à SQL
-	- [ ] Funções SQL, JOINs & Normalização
-	- [ ] Introdução ao Desenvolvimento Web com Node.JS
-	- [ ] Node.JS: Camada de Serviço e Arquitetura Rest & Restful
-	- [ ] Node.JS: ORM & Autenticação
-	- [ ] Deployment
-	- [ ] TypeScript
-	- [ ] Programação Orientada a Objetos (POO) & SOLID
-	- [ ] Introdução ao MongoDB
-	- [ ] MongoDB com Node.JS & POO
-	- [ ] MasterClass - VPS, CI/CD
-
-- :hourglass_flowing_sand: Ciência da Computação:
-	- [ ] Introdução à Python
-	- [ ] Padrões de Projeto
-	- [ ] Redes & Raspagem de Dados
-	- [ ] Algoritmos
-	- [ ] Estrutura de Dados I: Arrays, Listas, Filas & Pilhas
-	- [ ] Estrutura de Dados II: Hashmaps & Sets
+- :hourglass_flowing_sand: [Fundamentos](https://github.com/JackCaio/TrybeExercicios/tree/main/fundamentos)
+- :hourglass_flowing_sand: [Desenvolvimento Front-End](https://github.com/JackCaio/TrybeExercicios/tree/main/front-end)
+- :hourglass_flowing_sand: [Desenvolvimento Back-End](https://github.com/JackCaio/TrybeExercicios/tree/main/back-end)
+- :hourglass_flowing_sand: [Ciência da Computação](https://github.com/JackCaio/TrybeExercicios/tree/main/compScience)
