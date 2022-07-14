@@ -1,0 +1,45 @@
+body {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 65px;
+    font-family: sans-serif;
+    color: orange;
+}
+
+p {
+    font-weight: 600;
+    font-size: 2em;
+}
+
+li {
+    font-style: italic;
+    line-height: 30px;
+    text-align: justify;
+    text-decoration: underline;
+}
+
+/* .background {
+    background-color: green;
+} */
+
+#azul {
+    background-color: blue;
+}
+
+#roxo {
+    background-color: purple;
+}
+
+#cinza {
+    background-color: gray;
+}
+
+#aqua {
+    background-color: aqua;
+}
+
+#vermelho {
+    background-color: red;
+}
