@@ -1,7 +1,12 @@
 body {
     font-family: sans-serif;
+    background-color: #9c9595;
 }
 
 .portfolio-name {
     font-family: 'Courier New', Courier, monospace;
+}
+
+#fotoPerfil {
+    border-radius: 100%;
 }
