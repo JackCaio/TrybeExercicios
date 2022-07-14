@@ -10,3 +10,11 @@ body {
 #fotoPerfil {
     border-radius: 100%;
 }
+
+.brazil {
+    color: #009c3b;
+}
+
+.italic {
+    font-style: italic;
+}
